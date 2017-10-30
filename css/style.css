@@ -2375,3 +2375,14 @@ fieldset[disabled] .s-btn {
 .s-swiper__pagination-v1--dark .swiper-pagination-bullet-active {
   background: #13b1cd;
 }
+
+/* Custom 
+---------------------------*/
+
+.g-bg-svg--primary-ltr {
+    background-color: #000;
+    background-image:  url(../img/brown-bkg.svg);
+    background-repeat: repeat-x;
+    background-size: cover;
+}
+
